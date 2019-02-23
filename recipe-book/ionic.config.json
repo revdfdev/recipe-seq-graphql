@@ -1,0 +1,7 @@
+{
+  "name": "Recipe book",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}

@@ -1,0 +1,7 @@
+{
+  "appId": "com.webubictechnologies.recipe",
+  "appName": "Recipe book",
+  "bundledWebRuntime": false,
+  "webDir": "build",
+  "linuxAndroidStudioPath": "/home/webcubic3/.development/android-studio/android-studio/bin/studio.sh"
+}

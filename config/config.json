@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "webcubic",
+    "database": "recipe-app_development",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "webcubic",
+    "database": "recipe-app_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "webcubic",
+    "database": "recipe-app_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
